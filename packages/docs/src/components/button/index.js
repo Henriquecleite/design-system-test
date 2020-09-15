@@ -1,3 +1,3 @@
-import button from "button";
+import button from "@henriquec/button";
 
 export default button;
