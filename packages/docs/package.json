@@ -1,14 +1,14 @@
 {
   "name": "docs",
-  "version": "0.4.0",
+  "version": "0.5.0",
   "main": "index.js",
   "license": "MIT",
   "scripts": {
     "dev": "webpack-dev-server"
   },
   "dependencies": {
-    "@henriquec/button": "^0.4.0",
-    "@henriquec/select": "^0.4.0",
+    "@henriquec/button": "^0.5.0",
+    "@henriquec/select": "^0.5.0",
     "babel-loader": "^8.1.0",
     "html-webpack-plugin": "^4.4.1",
     "react": "^16.13.1",
