@@ -1,6 +1,5 @@
 {
   "name": "root",
-  "private": true,
   "scripts": {
     "build": "lerna exec --scope select -- babel index.js --out-dir dist --config-file ../../babel.config.json",
     "build-watcher": "node ./scripts/build-watcher.js",
